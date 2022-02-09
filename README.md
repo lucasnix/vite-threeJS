@@ -1,5 +1,5 @@
 # vite-threeJS
-Vite + threeJS APP - iniciation
+Vite + threeJS APP - start
 
 Download Node.js. Run this followed commands:
 
